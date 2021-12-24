@@ -13958,14 +13958,14 @@ body.white-version {
         background: var(--color-white);
         box-shadow: var(--shadow-white-3); }
     .white-version .rn-resume-area .personal-experience-inner .experience-list .resume-single-list:hover .heading {
-      border-bottom: 1px solid #706e6e; } /* borderline sruthi*/
+      border-bottom: 1px solid #706e6e; } /* borderline */
       .white-version .rn-resume-area .personal-experience-inner .experience-list .resume-single-list:hover .heading .title h4 {
         color: var(--color-white); }
       .white-version .rn-resume-area .personal-experience-inner .experience-list .resume-single-list:hover .heading .title span {
         color: var(--color-white); }
       .white-version .rn-resume-area .personal-experience-inner .experience-list .resume-single-list:hover .heading .date-of-time span {
         box-shadow: none;
-        background: #e479ab;  /* sruthi */
+        background: #e479ab;  /* boxcolour */
         color: var(--color-white); }
     .white-version .rn-resume-area .personal-experience-inner .experience-list .resume-single-list:hover .inner::after {
       background: var(--color-primary); }
@@ -13977,7 +13977,7 @@ body.white-version {
   box-shadow: none; }
 
 .white-version .rn-resume-area .progress-charts .progress .progress-bar {
-  background: linear-gradient(145deg, #fff 0%, var(--color-primary) 100%); }
+  background: linear-gradient(145deg, rgb(192, 142, 238) 0%, var(--color-primary) 100%); }
   .white-version .rn-resume-area .progress-charts .progress .progress-bar span.percent-label {
     color: var(--color-body-white); }
 
@@ -13990,7 +13990,7 @@ body.white-version {
   box-shadow: none; }
 
 .white-version .progress-charts .progress .progress-bar {
-  background: linear-gradient(145deg, #fff 0%, var(--color-primary) 100%); }
+  background: linear-gradient(145deg, rgb(192, 142, 238) 0%, var(--color-primary) 100%); }
   .white-version .progress-charts .progress .progress-bar span.percent-label {
     color: var(--color-body-white); }
 
